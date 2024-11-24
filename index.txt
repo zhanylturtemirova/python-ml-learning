@@ -1,0 +1,11 @@
+Machine learning (ML) is a subset of artificial intelligence (AI) focused on building systems that learn and improve from data without being explicitly programmed. 
+It employs algorithms to identify patterns in data, make predictions, and refine performance over time. 
+ML is broadly categorized into supervised learning, unsupervised learning, and reinforcement learning.
+
+In supervised learning, models are trained on labeled datasets to predict outcomes, such as detecting spam in emails. 
+Unsupervised learning, by contrast, identifies hidden patterns in unlabeled data, often used in clustering and dimensionality reduction tasks. 
+Reinforcement learning involves agents making decisions in dynamic environments, learning optimal strategies through feedback and rewards.
+
+Machine learning is widely applied in fields like finance, healthcare, autonomous vehicles, and natural language processing. 
+It powers recommendation systems, fraud detection, and even advanced chatbots. 
+However, challenges like data quality, interpretability, and ethical concerns continue to shape its development, driving the need for robust frameworks and practices.
